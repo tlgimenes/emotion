@@ -1,5 +1,16 @@
 # @emotion/react
 
+## 11.1.2
+
+### Patch Changes
+
+- [`1ee34005`](https://github.com/emotion-js/emotion/commit/1ee34005a5e02c9041b36f73395700f1965388eb) [#2122](https://github.com/emotion-js/emotion/pull/2122) Thanks [@dcastil](https://github.com/dcastil)! - Improved label extraction from the stack traces to handle components with numbers in their names.
+
+* [`e5843530`](https://github.com/emotion-js/emotion/commit/e58435308d880a69c6ccfde15d745e6c95d3c333) [#2140](https://github.com/emotion-js/emotion/pull/2140) Thanks [@hasparus](https://github.com/hasparus)! - Fixed an issue with `css` prop type not being added to all components that accept a string `className` correctly.
+
+* Updated dependencies [[`5469d003`](https://github.com/emotion-js/emotion/commit/5469d0034d055a34587e9d05332f6da4d4722b1c)]:
+  - @emotion/sheet@1.0.1
+
 ## 11.1.1
 
 ### Patch Changes
